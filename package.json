@@ -1,0 +1,73 @@
+{
+  "name": "react-tiff-to-png",
+  "description": "A library to convert tiff images to png from various type of files on the client side",
+  "version": "0.1.1",
+  "source": "src/index.js",
+  "main": "src/index.js",
+  "author": "tech-mustafa",
+  "license": "MIT",
+  "repository": "tech-mustafa/react-tiff-to-png",
+  "keywords": [
+    "tiff",
+    "react-tiff",
+    "react-tiff-viewer",
+    "react-tiff-viewer-component",
+    "react-tiff-viewer-component-library",
+    "tiff-to-png",
+    "tiff-converter",
+    "tiff-convert",
+    "tif",
+    "react-tif",
+    "react-tif-viewer",
+    "react-tif-viewer-component",
+    "react-tif-viewer-component-library",
+    "tif-to-png",
+    "tif-converter",
+    "tif-convert",
+    "react-tiff-to-png",
+    "react-tif-to-png"
+  ],
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "utif": "^3.1.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
