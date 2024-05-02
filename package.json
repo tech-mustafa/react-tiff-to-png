@@ -1,12 +1,12 @@
 {
-  "name": "react-tiff-to-png",
+  "name": "tiff-to-png-client",
   "description": "A library to convert tiff images to png from various type of files on the client side",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "source": "src/index.js",
   "main": "src/index.js",
   "author": "tech-mustafa",
   "license": "MIT",
-  "repository": "tech-mustafa/react-tiff-to-png",
+  "repository": "tech-mustafa/tiff-to-png-client",
   "keywords": [
     "tiff",
     "react-tiff",
@@ -24,8 +24,8 @@
     "tif-to-png",
     "tif-converter",
     "tif-convert",
-    "react-tiff-to-png",
-    "react-tif-to-png"
+    "tiff-to-png-client",
+    "tif-to-png-client"
   ],
   "devDependencies": {
     "@testing-library/jest-dom": "^5.17.0",
